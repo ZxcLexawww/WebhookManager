@@ -42,4 +42,3 @@ from rgbprint import Color
 rgbprint("Sended!", color="00F7A9")  
 
 time.sleep(2)
-quit()
